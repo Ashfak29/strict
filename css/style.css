@@ -335,16 +335,14 @@ textarea::placeholder{
 	/* width: 565px;
 	margin: 0px auto; */
 }
-.cs{
-	width: 66%; 
-	float: left;
-	color: #fff;
-	text-align: left;
+.cs {
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
 }
 .submit-button{
-	float: left;
-	width: 33%;
-	text-align: right;
+
 }
 .subscribe{
 	font-size: 15px;
